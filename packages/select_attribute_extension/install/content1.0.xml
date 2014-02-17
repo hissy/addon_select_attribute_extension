@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+	<singlepages>
+		<page name="Select Attribute Extension" path="/dashboard/pages/select_attribute_extension" filename="/dashboard/pages/select_attribute_extension.php" pagetype="" description="" package="select_attribute_extension" />
+	</singlepages>
+</concrete5-cif>

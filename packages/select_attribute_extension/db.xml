@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="atSelectOptionExtentions">
+		<field name="ID" type="I" size="10">
+			<KEY/>
+			<UNSIGNED />
+		</field>
+		<field name="thumbnail" type="I" size="10">
+			<NOTNULL/>
+			<UNSIGNED/>
+		</field>
+		<field name="description" type="C" size="255">
+		</field>
+		<field name="class" type="C" size="128">
+		</field>
+	</table>
+</schema>
